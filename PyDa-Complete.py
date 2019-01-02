@@ -51,7 +51,6 @@ class MyFrame(wx.Frame):
             print(answer)
         except:
             # Wikipedia
-            
             """ First, cleanse the string
             of 'who', 'what', 'where'
             queries to obtain info """
